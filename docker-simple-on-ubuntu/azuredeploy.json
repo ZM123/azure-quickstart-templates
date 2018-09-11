@@ -22,7 +22,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_F1",
+      "defaultValue": "Standard_B1s",
       "metadata": {
         "description": "VM size for the Docker host."
       }
